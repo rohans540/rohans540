@@ -1,6 +1,6 @@
  Here are my details 👋
  
- - 🔭 I’m currently working on ... ReactJs/Redux | NextJs | HTML/CSS
+ - 🔭 I’m currently working on ... ReactJs/Redux | Websockets | HTML/CSS
  - 🌱 I’m currently learning ... Node.js/Express | Microservices
  - 🤔 I’m looking for help with ... Machine learning | Django
  - 💬 Ask me about ... Javascript | frontend | python | Backend
