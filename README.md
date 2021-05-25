@@ -5,7 +5,7 @@
  - 🤔 I’m looking for help with ... Machine learning | Django
  - 💬 Ask me about ... Javascript | frontend | python | Backend
  - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/rohan-sharma-532847129) | [Facebook](https://www.facebook.com/rbohre.rb7) | [Twitter](https://twitter.com/rohansb540)
- - 😄 Pronouns: ... He/Him
+ - 😄 motto: ... Tum mujhe requirement do.. mai tumhe application dunga.😄
  - ⚡ Fun fact: ... I moved from Back end to front end.
 
 <!--
